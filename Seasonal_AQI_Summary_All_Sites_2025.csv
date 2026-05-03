@@ -1,0 +1,13 @@
+Location,Season,Average,Min,Max,Median
+Durgapur_Womens_College,Winter,197.07,114,325,190.0
+Durgapur_Womens_College,Pre-Monsoon (Summer),228.1,162,281,232.0
+Durgapur_Womens_College,Monsoon,72.56,28,175,68.0
+Durgapur_Womens_College,Post-Monsoon,98.1,28,187,96.0
+IIT_Guwahati,Winter,188.06,106,321,166.0
+IIT_Guwahati,Pre-Monsoon (Summer),106.44,22,257,78.0
+IIT_Guwahati,Monsoon,38.58,22,81,37.5
+IIT_Guwahati,Post-Monsoon,66.42,23,115,66.5
+Kolkata,Winter,165.27,69,286,165.5
+Kolkata,Pre-Monsoon (Summer),70.92,32,134,68.5
+Kolkata,Monsoon,51.7,32,90,49.0
+Kolkata,Post-Monsoon,134.08,37,251,137.0
